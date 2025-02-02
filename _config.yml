@@ -20,16 +20,52 @@
 
 title: Aaron Brezel
 title_separator: "|"
-subtitle: >- # this means to ignore newlines until "baseurl:"
-  News! Reporting! Products! News Reporting Products! A portfolio of work by Aaron Brezel, newsroom engineer
+# subtitle: >- # this means to ignore newlines until "description:"
+#   News! Reporting! Products! News Reporting Products! A portfolio of work by Aaron Brezel
 description: "A portfolio of work by Aaron Brezel, newsroom engineer."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://aaronbrezel.github.io # the base hostname & protocol for your site, e.g. http://example.com
 repository: aaronbrezel/aaronbrezel.github.io
+masthead_title: A/B
+# logo: /assets/svgs/me_icon.svg
+
 
 name: Aaron Brezel
 email: brezelaaron@gmail.com
 github_username:  aaronbrezel
+
+# I'm trying out a few different bios
+# Bringing a journalist-first approach to software engineer in the newsroom.
+# Combining high-caliber sftware engineering and journalistic rigor -- all within the newsroom
+
+author:
+  name     : Aaron Brezel
+  avatar   : /assets/images/headshot_2_square.JPEG
+  bio      : Combining high-caliber software engineering and journalistic rigor -- all within the newsroom
+  location : New York, NY
+  links:   
+    - label: GitHub
+      icon: fab fa-fw fa-github
+      url: https://github.com/aaronbrezel
+    - label: LinkedIn
+      icon: fab fa-fw fa-linkedin
+      url: https://www.linkedin.com/in/aaron-brezel/
+
+footer:
+  links:   
+    - label: GitHub
+      icon: fab fa-fw fa-github
+      url: https://github.com/aaronbrezel
+    - label: LinkedIn
+      icon: fab fa-fw fa-linkedin
+      url: https://www.linkedin.com/in/aaron-brezel/ 
+
+social:
+  type: Person
+  name: Aaron Brezel
+  links: 
+    - https://github.com/aaronbrezel/
+    - https://www.linkedin.com/in/aaron-brezel/
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
