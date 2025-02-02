@@ -7,9 +7,9 @@ author_profile: false
 title: Hello!
 ---
 
-I'm Aaron Brezel, a Brooklyn-based software engineer and computational journalist. 
+I'm Aaron Brezel, a Brooklyn-based software engineer and computational journalist.
 
-For three an a half years I worked as founding member of the Reporting Tools team at The Washington Post. There I built data pipelines, command line utilities, semantic vector databases, an LLM-powered video forensics tool—whatever would help the newsroom tell its most ambitious data-driven stories.  
+For three an a half years I worked as a founding member of the Reporting Tools team at The Washington Post. There I built data pipelines, command line utilities, semantic vector databases, an LLM-powered video forensics tool—whatever would help the newsroom tell its most ambitious data-driven stories.  
 
 As of Dec. 2024, I work as the lead software engineer for the [Local News Lab](https://lnl.brown.columbia.edu/), an R/D outfit out of the Brown Institute for Media Innovation. There, I build metrics, statistical models and user interfaces that translate web analytics into editorial strategy for small to mid-sized newsrooms.
 
