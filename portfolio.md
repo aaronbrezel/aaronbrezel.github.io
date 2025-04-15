@@ -25,7 +25,7 @@ Haystacker consists of three components: a React/Typescript frontend for reporte
 * My largest contribution was the introduction of semantic text search into the application. During a multi-month process, I gathered consensus for consequential engineering decisions. This included:
   * Selecting the right initial embedding model
   * Deciding when and where to generate the embeddings within the tech stack
-  * Designing the data models to hold the vector database. My modular subclass-based approach allowed for seamless swapping of data models
+  * Designing the data models to hold the vector database. My modular subclass-based approach allowed for the swapping of data models with minimal engineering effort
   * Refactoring our text search API to support substring, exact match and semantic search
 * I designed the data flow and several functional components of the React application.
 * I designed and implemented the cloud deployment for both the React application and the data pipeline.
