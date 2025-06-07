@@ -4,11 +4,11 @@ permalink: /resume/
 layout: single
 ---
 
-_Updated Feb. 2025_
+_Updated June 2025_
 
-Need a copy? <a href="/assets/pdfs/Resume_Jan_2025.pdf" download>Download it here</a>.
+Need a copy? <a href="/assets/pdfs/Resume_June_2025.pdf" download>Download it here</a>.
 
-<embed src="/assets/pdfs/Resume_Jan_2025.pdf" type="application/pdf" width="100%"/>
+<embed src="/assets/pdfs/Resume_June_2025.pdf" type="application/pdf" width="100%"/>
 
 
 
