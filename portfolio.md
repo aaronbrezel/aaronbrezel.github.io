@@ -5,6 +5,25 @@ permalink: /portfolio/
 toc: true
 ---
 
+## MCP Census
+
+A [model context protocol](https://modelcontextprotocol.io/introduction) server that wraps the U.S. Census Bureau data API for LLM interoperability   
+
+* [Github](https://github.com/aaronbrezel/mcp-census)
+
+### Description
+
+A collaboration between me and Michael Krisch at The Brown Institute for Media Innovation at Columbia University. The projected started as a weeklong Hugging Face hackathon project and has since expanded into an open source resource with access to over 1,700 U.S. Census datasets dating back to 1986. 
+
+### My contributions
+
+* Lead the technical development of the MCP Census server:
+  * Developed of the the original Gradio API backend
+  * Transitioned the codebase from Gradio to the official MCP Python SDK
+  * Developed the abstraction to provision LLM access to 1,700-plus API endpoints using a set of just eight MCP Tools
+  * Leveraged both build-time and run-time vectorization to reduce LLM context window utilization 
+* As of July, 2025, development is ongoing  
+
 ## Haystacker
 
 A first-of-its-kind video forensics tool powered by machine learning and large language models
