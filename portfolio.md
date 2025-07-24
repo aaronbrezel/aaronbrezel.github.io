@@ -7,9 +7,9 @@ toc: true
 
 ## MCP Census
 
-A [model context protocol](https://modelcontextprotocol.io/introduction) server that wraps the U.S. Census Bureau data API for LLM interoperability   
+A [model context protocol](https://modelcontextprotocol.io/introduction) server that wraps the U.S. Census Bureau data API for LLM interoperability.   
 
-* [Github](https://github.com/aaronbrezel/mcp-census)
+* [Project page](https://github.com/aaronbrezel/mcp-census)
 
 ### Description
 
